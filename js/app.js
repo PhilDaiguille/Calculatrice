@@ -25,7 +25,6 @@ document.addEventListener("DOMContentLoaded", () => {
 	moins = document.querySelector("ul li:nth-child(12)");
 	egal= document.querySelector("ul li:nth-child(16)");
 	
-	
 	button1.addEventListener("click", () => {
 		resultat.innerHTML += "7";
 	});
